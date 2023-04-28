@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "273395844586",
+    "project_id": "vault-27570",
+    "storage_bucket": "vault-27570.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273395844586:android:7d691555c0e853ba781e93",
+        "android_client_info": {
+          "package_name": "com.vashishth.vault"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273395844586-qab5174lm9mbh0gdul9ofi0ntjd3pifm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMjZd5V5r9Ve4Wpe9YkbamNQPJle1rHcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273395844586-qab5174lm9mbh0gdul9ofi0ntjd3pifm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
